@@ -1,0 +1,6 @@
+# Ignore Visual Studio workspace files
+.vs/
+
+# Optional: ignore user-specific settings
+*.user
+*.suo
